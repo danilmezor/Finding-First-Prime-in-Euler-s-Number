@@ -46,17 +46,6 @@ The solution combines several mathematical and computational techniques:
    - Converts digit sequences to numbers
    - Tests each number for primality
 
-## Quick Start 🚀
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/euler-prime.git
-cd euler-prime
-
-# Run the main program
-python euler_prime.py
-```
-
 ## Results 📊
 
 ```python
